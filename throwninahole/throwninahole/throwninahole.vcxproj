@@ -145,12 +145,14 @@
     <ClCompile Include="floor.cpp" />
     <ClCompile Include="floorTest.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="monster.cpp" />
     <ClCompile Include="tile.cpp" />
     <ClCompile Include="tiltTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="floor.hpp" />
     <ClInclude Include="floorTest.h" />
+    <ClInclude Include="monster.h" />
     <ClInclude Include="tile.h" />
     <ClInclude Include="tiltTest.h" />
   </ItemGroup>
