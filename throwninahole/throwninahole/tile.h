@@ -9,7 +9,7 @@ public:
 	void setX();
 	void setY();
 private:
-	char type;//. for floor, ascii 219 for wall
+	unsigned char type;//. for floor, ascii 219 for wall
 	int isOccupied;// 0 = unoccupied;1 = occupied
 	int PosX;
 	int PosY;
